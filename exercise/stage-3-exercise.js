@@ -18,7 +18,7 @@ import { menuItems, orders } from "../fakeData/foodTruckDB.js";
 // Expected output: { id: 2, name: "Double Engine", ... }
 
 function findMenuItemById(items, itemId) {
-  // TODO: your code here
+   // TODO: your code here
 }
 
 console.log(findMenuItemById(menuItems, 2));
